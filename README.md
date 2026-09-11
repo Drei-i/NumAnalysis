@@ -1,4 +1,4 @@
 # NumAnalysis
 
-Jude Andrei E. Rabaya
-CS4D
+- Jude Andrei E. Rabaya
+- CS4D
